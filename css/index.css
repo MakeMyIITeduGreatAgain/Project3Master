@@ -340,12 +340,21 @@ nav#welcome-nav ul li a{
   overflow: hidden;
 }
 #leftcolumn{
-	float: left;
-	width: 30%;
+  float: left;
+  width: 30%;
+}
+.welcomePics{
+  height: 31.250em; /* 500px */
+  width: 18.375em; /* 294px */
 }
 #rightcolumn{
 	float: right;
 	width: 70%;
+}
+#cal{
+  height: 31.250em; /* 500px */
+  width: 42.875em; /*686px */
+  border: none;
 }
 #slideShow {
   /* Main wrapper for all images */
