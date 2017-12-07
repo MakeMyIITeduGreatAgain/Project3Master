@@ -15,7 +15,7 @@ function slide() {
     picNum++;
     
     if (picNum > photos.length) {
-        picNum = 1
+        picNum = 1;
     }
     photos[picNum - 1].style.display = "block";
     setTimeout(slide, 4000);
