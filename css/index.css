@@ -348,8 +348,8 @@ nav#welcome-nav ul li a{
   width: 18.375em; /* 294px */
 }
 #rightcolumn{
-	float: right;
-	width: 70%;
+  float: right;
+  width: 70%;
 }
 #cal{
   height: 31.250em; /* 500px */
